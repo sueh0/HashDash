@@ -5,7 +5,7 @@
 # <p align="center">HashDash — painel Hash</p>
 
 <p align="center">
-  O <b>HashDash</b> é um gerador de hash **SHA-256** rápido, minimalista e com interface moderna inspirada no **VS Code**. Ideal para desenvolvedores e entusiastas que precisam validar strings de texto ou gerar tokens de verificação instantaneamente.
+  O <b>HashDash</b> é um gerador de hash (SHA-256) rápido, minimalista e com interface moderna. Ideal para desenvolvedores e entusiastas que precisam validar strings de texto ou gerar tokens de verificação instantaneamente.
 </p>
 
 <p align="center">
@@ -13,15 +13,6 @@
     <img src="https://img.shields.io/badge/DOWNLOAD-TidyMind%20(.EXE)-success?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Botão de Download TidyMind" height="50px">
   </a>
 </p>
-
----
-
----
-
-## 🚀 Download
-A versão executável (Windows) está disponível na seção de **Releases** do repositório.
-
-[**👉 CLIQUE AQUI PARA BAIXAR O HASH DASH (v1.0.0)**](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/latest)
 
 ---
 
