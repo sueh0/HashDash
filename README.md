@@ -38,4 +38,4 @@ Se preferir rodar direto pelo código em vez do executável:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone [https://github.com/m4hun0/HashDash.git](https://github.com/m4hun0/HashDash.git)
